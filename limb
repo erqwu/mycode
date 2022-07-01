@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html style="background-color:#eee000">
+	<style>
+		div{
+			margin：0px auto;
+		}
+	</style>
+	<link rel="shortcut icon" href="https://blys.neocities.org/15.jpg">
+    <title>王一杭网站</title>
+	<body style="background-color:skyblue">
+		<b>首页(推荐用电脑版)</b>
+		
+		<div>
+			<a href="https://xn--4gqt33d3ri.rth7.com/xiezi.html" style="text-decoration:none;">
+				<button>写字</button>
+			</a>
+			<a href="https://xn--4gqt33d3ri.rth7.com/d.html" style="text-decoration:none;">
+				<button>下载</button>
+			</a>
+			<a href="https://xn--4gqt33d3ri.rth7.com/anchor.html" style="text-decoration:none;">
+				<button>链接</button>
+			</a>
+            <a href="https://blys.neocities.org" style="text-decoration:none;">
+				<button>快捷网站</button>
+            </a>
+			<a href="https://xn--4gqt33d3ri.rth7.com/texts" style="text-decoration:none;">
+				<button>技巧</button>
+            </a>
+		</div>
+	</body>
+</html>
